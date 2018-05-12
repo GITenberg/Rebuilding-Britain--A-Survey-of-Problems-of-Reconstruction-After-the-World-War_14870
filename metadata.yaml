@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '5726'
     url: http://www.gutenberg.org/2009/agents/5726
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14870#Rebuilding-Britain--A-Survey-of-Problems-of-Reconstruction-After-the-World-War
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2005-02-02'
 gutenberg_type: Text
